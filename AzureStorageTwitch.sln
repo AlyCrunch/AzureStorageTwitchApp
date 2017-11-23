@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageTwitch", "AzureStorageTwitch\AzureStorageTwitch.csproj", "{AA100D6F-4633-4C7D-A5AB-AB2FD74DE85A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.AzureStorageTwitch", "Test.AzureStorageTwitch\Test.AzureStorageTwitch.csproj", "{B7F4952E-C99E-4B8A-BBA5-08B39EFF18E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AA100D6F-4633-4C7D-A5AB-AB2FD74DE85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA100D6F-4633-4C7D-A5AB-AB2FD74DE85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA100D6F-4633-4C7D-A5AB-AB2FD74DE85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F4952E-C99E-4B8A-BBA5-08B39EFF18E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F4952E-C99E-4B8A-BBA5-08B39EFF18E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F4952E-C99E-4B8A-BBA5-08B39EFF18E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F4952E-C99E-4B8A-BBA5-08B39EFF18E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
